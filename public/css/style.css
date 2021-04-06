@@ -1,0 +1,44 @@
+body
+{
+background-color: aqua;
+}
+
+.box
+{
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 20px 0 0 0 ;
+    
+}
+
+#heading{
+    background-color: blue;
+    text-align: center;
+
+}
+
+.list-group-item{
+    min-height: 50px;
+    display: inline-block;
+}
+
+
+.btn
+{
+display: inline-block;
+position: absolute;
+}
+
+.item{
+    padding: 20px 0 0 0;
+    background-color: white;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+p{
+    display: inline-block;
+    text-align: center;
+
+}
